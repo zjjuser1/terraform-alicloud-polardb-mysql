@@ -74,7 +74,7 @@ variable "tde_status" {
 variable "encrypt_new_tables" {
   description = "The turn on table auto encryption. Valid values are ON, OFF. Only MySQL 8.0 supports."
   type        = string
-  default     = "OFF"
+  default     = null
 }
 
 variable "security_group_ids" {
