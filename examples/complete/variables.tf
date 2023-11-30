@@ -230,3 +230,9 @@ variable "data_level2_backup_period" {
   type        = set(string)
   default     = null
 }
+
+variable "deletion_lock"{
+  description = "Valid values are 0, 1. 1 means to open the cluster protection lock, 0 means to close the cluster protection lock. Cannot modify after created when pay_type is Prepaid."
+  type = number
+  default = null
+}
