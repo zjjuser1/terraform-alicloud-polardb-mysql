@@ -20,6 +20,7 @@ resource "alicloud_polardb_cluster" "cluster" {
   tde_status         = var.tde_status
   encrypt_new_tables = var.encrypt_new_tables
   security_group_ids = var.security_group_ids
+  deletion_lock      = var.deletion_lock
   dynamic "parameters" {
     for_each = var.parameters
     content {

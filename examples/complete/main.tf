@@ -33,6 +33,7 @@ module "default" {
   security_ips                = var.security_ips
   maintain_time               = var.maintain_time
   collector_status            = var.collector_status
+  deletion_lock               = var.deletion_lock
   parameters = [
     {
       name  = "wait_timeout"

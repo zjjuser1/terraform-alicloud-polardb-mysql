@@ -13,6 +13,7 @@ tde_status                  = "Enabled"
 encrypt_new_tables          = null
 security_group_ids          = null
 db_description              = "update Database description"
+deletion_lock               = 1
 parameters = [
   {
     name  = "wait_timeout"
