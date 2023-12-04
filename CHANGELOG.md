@@ -1,4 +1,11 @@
-## 2.1.0 (Unreleased)
+## 2.2.0 (Unreleased)
+## 2.1.0 (2023-12-04)
+
+ENHANCEMENTS:
+
+- Upgrade variable encrypt_new_tables default value deleting
+[GH-4](https://github.com/alibabacloud-automation/terraform-alicloud-polardb-mysql/pull/4)
+
 ## 2.0.0 (2023-11-01)
 
 ENHANCEMENTS:
