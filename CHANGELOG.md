@@ -1,4 +1,11 @@
-## 2.2.0 (Unreleased)
+## 2.3.0 (Unreleased)
+## 2.2.0 (2023-12-05)
+
+ENHANCEMENTS:
+
+- Terraform module supports cluster protection locks [GH-5](https://github.com/alibabacloud-automation/terraform-alicloud-polardb-mysql/pull/5)
+
+
 ## 2.1.0 (2023-12-04)
 
 ENHANCEMENTS:
