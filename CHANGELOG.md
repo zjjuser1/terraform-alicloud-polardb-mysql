@@ -1,4 +1,11 @@
-## 2.3.0 (Unreleased)
+## 2.4.0 (Unreleased)
+
+## 2.3.0 (2024-02-28)
+
+ENHANCEMENTS:
+
+- added attribute log_backup_retention_period of backup_policy.[GH-7](https://github.com/alibabacloud-automation/terraform-alicloud-polardb-mysql/pull/7)
+
 ## 2.2.0 (2023-12-05)
 
 ENHANCEMENTS:
