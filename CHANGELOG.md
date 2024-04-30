@@ -1,4 +1,9 @@
-## 2.4.0 (Unreleased)
+## 3.1.0 (Unreleased)
+## 3.0.0 (2024-04-30)
+
+ENHANCEMENTS:
+
+- module: support added attribute of resource resource_alicloud_polardb_cluster、resource_alicloud_polardb_backup_policy. [GH-10](https://github.com/alibabacloud-automation/terraform-alicloud-polardb-mysql/pull/10)
 
 ## 2.3.0 (2024-02-28)
 
